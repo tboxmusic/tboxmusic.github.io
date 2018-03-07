@@ -871,7 +871,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var AppConfig = (function () {
     function AppConfig() {
         this.serverApiUrl = "https://music-tbox.rhcloud.com";
-        this.serviceApiUrl = "http://tmusic-ttapp.7e14.starter-us-west-2.openshiftapps.com";
+        this.serviceApiUrl = "https://tmusic-ttapp.7e14.starter-us-west-2.openshiftapps.com";
         this.imageHostUrl = "http://tmusic-trungthao379.rhcloud.com.rsz.io";
         this.defaultAlbumArtId = "0BxJ5EROKWv0dNGpNOWdJVW5kTEU";
         this.authApiUrl = "https://authentication-379.rhcloud.com/api/auth";
